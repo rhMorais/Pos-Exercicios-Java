@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea159ecf-7371-4d54-894f-fe7cd442d7b4" name="Default Changelist" comment="" />
+    <list default="true" id="5621c2eb-97d6-4f01-bc41-764f5ec71434" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1QpIllNP1slQXAbNtSLwCuEc5BU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Qq6eZfc8kBSAfWM0HpLlwlRuu4" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -35,7 +31,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.unifacef.Main" />
-      <module name="exercicios-clase" />
+      <module name="polimorfismo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.unifacef.*" />
@@ -57,23 +53,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea159ecf-7371-4d54-894f-fe7cd442d7b4" name="Default Changelist" comment="" />
-      <created>1568461264252</created>
+      <changelist id="5621c2eb-97d6-4f01-bc41-764f5ec71434" name="Default Changelist" comment="" />
+      <created>1568485874449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568461264252</updated>
+      <updated>1568485874449</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
